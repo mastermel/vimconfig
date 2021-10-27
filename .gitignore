@@ -1,7 +1,6 @@
 .DS_Store
 .init.vim-rplugin~
 .netrwhist
-custom/*
 plugs
 sessions
 backups
