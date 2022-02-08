@@ -42,8 +42,8 @@ Plug 'mhinz/vim-signify'
 Plug 'tpope/vim-fugitive'
 
 " Custom Plugins in ./plugs.custom.vim
-if filereadable(expand('~/.vim/plugs.custom.vim'))
-  source ~/.vim/plugs.custom.vim
+if filereadable(expand('~/.vim/custom/plugs.custom.vim'))
+  source ~/.vim/custom/plugs.custom.vim
 endif
 
 call plug#end()
