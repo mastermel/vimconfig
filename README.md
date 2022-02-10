@@ -1,7 +1,7 @@
 # Current setup for vim and tmux
 
 ## Installing vimconfig
-- Run `git clone https://github.com/dckesler/vimconfig.git ~/.vim`
+- Run `git clone --recurse-submodules git@github.com:mastermel/vimconfig.git ~/.vim`
 - (Or the git address of your fork if you forked this)
 
 ### Mac setup steps
