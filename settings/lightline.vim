@@ -2,7 +2,7 @@
 " colorscheme property here
 " check out theme options here - https://github.com/itchyny/lightline.vim
 let g:lightline = {
-			\ 'colorscheme': 'wombat',
+			\ 'colorscheme': 'purify',
 			\ 'active': {
 			\   'left': [ [ 'mode', 'paste' ],
 			\             [ 'readonly', 'filename', 'modified' ] ]

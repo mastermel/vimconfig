@@ -15,6 +15,8 @@ filetype plugin on
 filetype indent on
 
 syntax on
+" Use new regular expression engine to
+set re=0
 
 " Keeps undo history across sessions by storing in a file
 if has('persistent_undo') && !isdirectory(expand('~').'/.vim/backups')
