@@ -8,7 +8,7 @@ nnoremap <Leader>ag :Ag
 let g:fzf_action = {
   \ 'ctrl-t': 'tab split',
   \ 'ctrl-x': 'split',
-  \ 'ctrl-v': 'vsplit' }
+  \ 'ctrl-y': 'vsplit' }
 
 " Default fzf layout
 " - down / up / left / right

@@ -14,7 +14,7 @@ nnoremap <silent> <C-\> :call OpenNerdTree()<CR>
 
 let NERDTreeMinimalUI = 1
 let NERDTreeDirArrows = 1
-let g:NERDTreeWinSize = 30
+let g:NERDTreeWinSize = 35
 
 " Show hidden files by default
 let NERDTreeShowHidden=1
